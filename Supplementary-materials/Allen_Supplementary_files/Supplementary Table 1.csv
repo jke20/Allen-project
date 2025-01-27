@@ -1,0 +1,245 @@
+ID,Acronym,Allen Level 1 Tissue,Allen Level 2 Tissue,Allen Level 3 Tissue,Allen Level 4 Tissue,Allen Level 5 Tissue,Allen Level 6 Tissue,Allen Level 7 Tissue,Allen Level 8 Tissue,Allen Level 9 Tissue,Tissue with gene expression,Mapped GTEx tissue
+4005,Br,Brain,,,,,,,,,0,
+4006,GM,,Grey Matter,,,,,,,,0,
+4007,Tel,,,Telencephalon,,,,,,,0,
+4008,Cx,,,,Cerebral Cortex,,,,,,0,
+4009,FL,,,,,Frontal Lobe,,,,,0,Frontal_Cortex_BA9
+4078,fro,,,,,,frontal operculum,,,,0,Frontal_Cortex_BA9
+4079,fro,,,,,,,"frontal operculum, Left",,,1,Frontal_Cortex_BA9
+4047,GRe,,,,,,gyrus rectus,,,,0,Frontal_Cortex_BA9
+4048,GRe,,,,,,,"gyrus rectus, Left",,,1,Frontal_Cortex_BA9
+4035,IFG,,,,,,inferior frontal gyrus,,,,0,Frontal_Cortex_BA9
+4044,orIFG,,,,,,,"inferior frontal gyrus, orbital part",,,0,Frontal_Cortex_BA9
+4045,orIFG,,,,,,,,"inferior frontal gyrus, orbital part, Left",,1,Frontal_Cortex_BA9
+4038,trIFG,,,,,,,"Inferior frontal gyrus, triangular part",,,0,Frontal_Cortex_BA9
+4039,trIFG,,,,,,,,"Inferior frontal gyrus, triangular part, Left",,1,Frontal_Cortex_BA9
+4059,LOrG,,,,,,lateral orbital gyrus,,,,0,Frontal_Cortex_BA9
+4060,LOrG,,,,,,,"lateral orbital gyrus, Left",,,1,Frontal_Cortex_BA9
+4050,MOrG,,,,,,medial orbital gyrus,,,,0,Frontal_Cortex_BA9
+4051,MOrG,,,,,,,"medial orbital gyrus, Left",,,1,Frontal_Cortex_BA9
+4028,MFG,,,,,,middle frontal gyrus,,,,0,Frontal_Cortex_BA9
+4029,MFG,,,,,,,"middle frontal gyrus, Left",,,0,Frontal_Cortex_BA9
+4030,MFG-s,,,,,,,,"middle frontal gyrus, Left, superior bank of gyrus",,1,Frontal_Cortex_BA9
+4031,MFG-i,,,,,,,,"middle frontal gyrus, Left, inferior bank of gyrus",,1,Frontal_Cortex_BA9
+4071,PCLa,,,,,,"paracentral lobule, anterior part",,,,0,Frontal_Cortex_BA9
+4072,PCLa,,,,,,,"paracentral lobule, anterior part, Left",,,0,Frontal_Cortex_BA9
+4074,PCLa-i,,,,,,,,"paracentral lobule, anterior part, Left, inferior bank of gyrus",,1,Frontal_Cortex_BA9
+4010,PrG,,,,,,precentral gyrus,,,,0,Frontal_Cortex_BA9
+4011,PrG,,,,,,,"precentral gyrus, Left",,,0,Frontal_Cortex_BA9
+4012,PrG-prc,,,,,,,,"precentral gyrus, Left, bank of the precentral sulcus",,1,Frontal_Cortex_BA9
+4013,PrG-sl,,,,,,,,"precentral gyrus, Left, superior lateral aspect of gyrus",,1,Frontal_Cortex_BA9
+4014,PrG-il,,,,,,,,"precentral gyrus, Left, inferior lateral aspect of gyrus",,1,Frontal_Cortex_BA9
+4021,SFG,,,,,,superior frontal gyrus,,,,0,Frontal_Cortex_BA9
+4022,SFG,,,,,,,"superior frontal gyrus, Left",,,0,Frontal_Cortex_BA9
+4023,SFG-m,,,,,,,,"superior frontal gyrus, Left, medial bank of gyrus",,1,Frontal_Cortex_BA9
+4024,SFG-l,,,,,,,,"superior frontal gyrus, Left, lateral bank of gyrus",,1,Frontal_Cortex_BA9
+4268,Ins,,,,,Insula,,,,,0,
+4269,LIG,,,,,,Long Insular Gyri,,,,0,
+4270,LIG,,,,,,,"Long Insular Gyri, Left",,,1,
+4272,SIG,,,,,,Short Insular Gyri,,,,0,
+4273,SIG,,,,,,,"Short Insular Gyri, Left",,,1,
+4219,LL,,,,,Limbic Lobe,,,,,0,
+4220,CgG,,,,,,Cingulate gyrus,,,,0,
+4221,CgGf,,,,,,,"Cingulate gyrus, frontal part",,,0,Anterior_cingulate_cortex_BA24
+4222,CgGf,,,,,,,,"Cingulate gyrus, frontal part, Left",,0,Anterior_cingulate_cortex_BA24
+4223,CgGf-s,,,,,,,,,"Cingulate gyrus, frontal part, Left, superior bank of gyrus",1,Anterior_cingulate_cortex_BA24
+4224,CgGf-i,,,,,,,,,"Cingulate gyrus, frontal part, Left, inferior bank of gyrus",1,Anterior_cingulate_cortex_BA24
+4228,CgGp,,,,,,,"Cingulate gyrus, parietal part",,,0,
+4229,CgGp,,,,,,,,"Cingulate gyrus, parietal part, Left",,0,
+4230,CgGp-s,,,,,,,,,"Cingulate gyrus, parietal part, Left, superior bank of gyrus",1,
+4249,HiF,,,,,,hippocampal formation,,,,0,Hippocampus
+12891,DG,,,,,,,Dentate Gyrus,,,0,Hippocampus
+4258,DG,,,,,,,,"Dentate gyrus, Left",,1,Hippocampus
+12892,CA1,,,,,,,CA1 field,,,0,Hippocampus
+4254,CA1,,,,,,,,"CA1 field, Left",,1,Hippocampus
+12893,CA2,,,,,,,CA2 field,,,0,Hippocampus
+4255,CA2,,,,,,,,"CA2 field, Left",,1,Hippocampus
+12894,CA3,,,,,,,CA3 field,,,0,Hippocampus
+4256,CA3,,,,,,,,"CA3 field, Left",,1,Hippocampus
+12895,CA4,,,,,,,CA4 field,,,0,Hippocampus
+4257,CA4,,,,,,,,"CA4 field, Left",,1,Hippocampus
+12896,S,,,,,,,Subiculum,,,0,Hippocampus
+4251,S,,,,,,,,"subiculum, Left",,1,Hippocampus
+4242,PHG,,,,,,parahippocampal gyrus,,,,0,
+4243,PHG,,,,,,,"parahippocampal gyrus, Left",,,0,
+4244,PHG-l,,,,,,,,"parahippocampal gyrus, Left, lateral bank of gyrus",,1,
+4245,PHG-cos,,,,,,,,"parahippocampal gyrus, Left, bank of the cos",,1,
+4180,OL,,,,,Occipital Lobe,,,,,0,
+4184,Cun,,,,,,cuneus,,,,0,
+4185,Cun,,,,,,,"cuneus, Left",,,0,
+4186,Cun-pest,,,,,,,,"cuneus, Left, peristriate",,1,
+4187,Cun-str,,,,,,,,"cuneus, Left, striate",,1,
+4191,LiG,,,,,,lingual gyrus,,,,0,
+4192,LiG,,,,,,,"lingual gyrus, Left",,,0,
+4193,LiG-pest,,,,,,,,"lingual gyrus, Left, peristriate",,1,
+4194,LiG-str,,,,,,,,"lingual gyrus, Left, striate",,1,
+4198,OTG,,,,,,occipito-temporal gyrus,,,,0,
+4199,OTG,,,,,,,"occipito-temporal gyrus, Left",,,0,
+4200,OTG-s,,,,,,,,"occipito-temporal gyrus, Left, superior bank of gyrus",,1,
+4201,OTG-i,,,,,,,,"occipito-temporal gyrus, Left, inferior bank of gyrus",,1,
+4212,SOG,,,,,,superior occipital gyrus,,,,0,
+4213,SOG,,,,,,,"superior occipital gyrus, Left",,,0,
+4214,SOG-s,,,,,,,,"superior occipital gyrus, Left, superior bank of gyrus",,1,
+4084,PL,,,,,Parietal Lobe,,,,,0,
+4103,IPL,,,,,,inferior parietal lobule,,,,0,
+4111,AnG,,,,,,,angular gyrus,,,0,
+4112,AnG,,,,,,,,"angular gyrus, Left",,0,
+4113,AnG-s,,,,,,,,,"angular gyrus, Left, superior bank of gyrus",1,
+4114,AnG-i,,,,,,,,,"angular gyrus, Left, inferior bank of gyrus",1,
+4104,SMG,,,,,,,supramarginal gyrus,,,0,
+4105,SMG,,,,,,,,"supramarginal gyrus, Left",,0,
+4106,SMG-s,,,,,,,,,"supramarginal gyrus, Left, superior bank of gyrus",1,
+4107,SMG-i,,,,,,,,,"supramarginal gyrus, Left, inferior bank of gyrus",1,
+4085,PoG,,,,,,postcentral gyrus,,,,0,
+4086,PoG,,,,,,,"postcentral gyrus, Left",,,0,
+4087,PoG-cs,,,,,,,,"postcentral gyrus, Left, bank of the central sulcus",,1,
+4088,PoG-sl,,,,,,,,"postcentral gyrus, Left, superior lateral aspect of gyrus",,1,
+4118,PCu,,,,,,precuneus,,,,0,
+4119,PCu,,,,,,,"precuneus, Left",,,0,
+4120,Pcu-s,,,,,,,,"precuneus, Left,  superior lateral bank of gyrus",,1,
+4121,Pcu-i,,,,,,,,"precuneus, Left, inferior lateral bank of gyrus",,1,
+4096,SPL,,,,,,supraparietal lobule,,,,0,
+4097,SPL,,,,,,,"supraparietal lobule, Left",,,0,
+4098,SPL-s,,,,,,,,"supraparietal lobule, Left, superior bank of gyrus",,1,
+4099,SPL-i,,,,,,,,"supraparietal lobule, Left, inferior bank of gyrus",,1,
+4132,TL,,,,,Temporal Lobe,,,,,0,
+4156,FuG,,,,,,fusiform gyrus,,,,0,
+4157,FuG,,,,,,,"fusiform gyrus, Left",,,0,
+4158,FuG-its,,,,,,,,"fusiform gyrus, Left, bank of the its",,1,
+4160,FuG-cos,,,,,,,,"fusiform gyrus, Left, bank of cos",,1,
+4165,HG,,,,,,Heschl's gyrus,,,,0,
+4166,HG,,,,,,,"Heschl's gyrus, Left",,,1,
+4147,ITG,,,,,,inferior temporal gyrus,,,,0,
+4148,ITG,,,,,,,"inferior temporal gyrus, Left",,,0,
+4149,ITG-its,,,,,,,,"inferior temporal gyrus, Left, bank of the its",,1,
+4150,ITG-l,,,,,,,,"inferior temporal gyrus, Left, lateral bank of gyrus",,1,
+4151,ITG-mts,,,,,,,,"inferior temporal gyrus, Left, bank of mts",,1,
+4140,MTG,,,,,,middle temporal gyrus,,,,0,
+4141,MTG,,,,,,,"middle temporal gyrus, Left",,,0,
+4142,MTG-s,,,,,,,,"middle temporal gyrus, Left, superior bank of gyrus",,1,
+4143,MTG-i,,,,,,,,"middle temporal gyrus, Left, inferior bank of gyrus",,1,
+4177,PLP,,,,,,planum polare,,,,0,
+4178,PLP,,,,,,,"planum polare, Left",,,1,
+4133,STG,,,,,,superior temporal gyrus,,,,0,
+4134,STG,,,,,,,"superior temporal gyrus, Left",,,0,
+4135,STG-l,,,,,,,,"superior temporal gyrus, Left, lateral bank of gyrus",,1,
+4136,STG-i,,,,,,,,"superior temporal gyrus, Left, inferior bank of gyrus",,1,
+4275,CxN,,,,Cerebral Nuclei,,,,,,0,
+4327,Amg,,,,,Amygdala,,,,,0,Amygdala
+4328,ATZ,,,,,,Amygdaloid Transition Zone,,,,0,Amygdala
+4329,ATZ,,,,,,,"Amygdaloid Transition zone, Left",,,1,Amygdala
+4341,BLA,,,,,,Basolateral Nucleus,,,,0,Amygdala
+4342,BLA,,,,,,,"Basolateral Nucleus, Left",,,1,Amygdala
+4350,BMA,,,,,,Basomedial Nucleus,,,,0,Amygdala
+4351,BMA,,,,,,,"Basomedial nucleus, Left",,,1,Amygdala
+4359,CeA,,,,,,Central Nucleus,,,,0,Amygdala
+4360,CeA,,,,,,,"Central Nucleus, Left",,,1,Amygdala
+4366,COMA,,,,,,Cortico-medial group,,,,0,Amygdala
+4367,COMA,,,,,,,"Cortico-medial group, Left",,,1,Amygdala
+4378,LA,,,,,,Lateral Nucleus,,,,0,Amygdala
+4379,LA,,,,,,,"Lateral Nucleus, Left",,,1,Amygdala
+4276,BG,,,,,Basal Ganglia,,,,,0,
+4293,GP,,,,,,Globus Pallidus,,,,0,
+12898,GPi,,,,,,,"globus pallidus, internal segment",,,0,
+4296,GPi,,,,,,,,"globus pallidus, internal segment, Left",,1,
+4277,Str,,,,,,Striatum,,,,0,
+4278,Cd,,,,,,,Caudate Nucleus,,,0,Caudate_basal_ganglia
+12899,BCd,,,,,,,,Body of the Caudate Nucleus,,0,Caudate_basal_ganglia
+4282,BCd,,,,,,,,,"Body of Caudate Nucleus, Left",1,Caudate_basal_ganglia
+12900,HCd,,,,,,,,Head of the Caudate Nucleus,,0,Caudate_basal_ganglia
+4280,HCd,,,,,,,,,"Head of Caudate Nucleus, Left",1,Caudate_basal_ganglia
+12901,TCd,,,,,,,,Tail of the Caudate Nucleus,,0,Caudate_basal_ganglia
+4281,TCd,,,,,,,,,"Tail of Caudate Nucleus, Left",1,Caudate_basal_ganglia
+4290,Acb,,,,,,,Nucleus Accumbens,,,0,Nucleus_accumbens_basal_ganglia
+4291,Acb,,,,,,,,"Nucleus Accumbens, Left",,1,Nucleus_accumbens_basal_ganglia
+4287,Pu,,,,,,,Putamen,,,0,Putamen_basal_ganglia
+4288,Pu,,,,,,,,"Putamen, Left",,1,Putamen_basal_ganglia
+4321,Cl,,,,,Claustrum,,,,,0,
+4322,Cl,,,,,,"Claustrum, Left",,,,1,
+4391,DiE,,,Diencephalon,,,,,,,0,
+4540,Hy,,,,Hypothalamus,,,,,,0,Hypothalamus
+4665,MamR,,,,,Mammillary Region,,,,,0,Hypothalamus
+13004,LHM,,,,,,"Lateral Hypothalamic Area, Mammillary Region",,,,0,Hypothalamus
+13005,LHM,,,,,,,"Lateral Hypothalamic Area, Mammillary Region, Left",,,1,Hypothalamus
+12910,PHA,,,,,,Posterior Hypothalamic Area,,,,0,Hypothalamus
+4679,PHA,,,,,,,"Posterior Hypothalamic Area, Left",,,1,Hypothalamus
+4541,PrOR,,,,,Preoptic Region,,,,,0,Hypothalamus
+4542,PrOR,,,,,,"Preoptic Region, Left",,,,1,Hypothalamus
+4517,SbT,,,,Subthalamus,,,,,,0,
+4518,Sb,,,,,"Subthalamic Nucleus, Left",,,,,1,
+4392,TH,,,,Thalamus,,,,,,0,
+4393,DT,,,,,Dorsal Thalamus,,,,,0,
+12920,DTA,,,,,,Anterior Group of Nuclei,,,,0,
+4395,DTA,,,,,,,"Anterior Group of Nuclei, Left",,,1,
+12921,ILc,,,,,,Caudal Group of intralaminar Nuclei,,,,0,
+4437,ILc,,,,,,,"Caudal Group of Intralaminar Nuclei, Left",,,1,
+12922,LGd,,,,,,Dorsal Lateral Geneiculate Nucleus,,,,0,
+4440,LGd,,,,,,,"Dorsal Lateral Geniculate Nucleus, Left",,,1,
+12923,DTL,,,,,,Lateral Group of Nuclei,,,,0,
+12924,DTLd,,,,,,,"Lateral Group of Nuclei, Dorsal Division",,,0,
+4409,DTLd,,,,,,,,"Lateral group of Nuclei, Left, Dorsal Division",,1,
+12925,DTLv,,,,,,,"Lateral Group of Nuclei, Ventral Division",,,0,
+4417,DTLv,,,,,,,,"Lateral group of Nuclei, Left, Ventral division",,1,
+12927,DTM,,,,,,Medial Group of Nuclei,,,,0,
+4400,DTM,,,,,,,"Medial Group of Nuclei, Left",,,1,
+12929,ILr,,,,,,Rostral Group of Intralaminar Nuclei,,,,0,
+4432,ILr,,,,,,,"Rostral Group of intralaminar Nuclei, Left",,,1,
+4504,VT,,,,,Ventral Thalamus,,,,,0,
+4505,VT,,,,,,"Ventral Thalamus, Left",,,,0,
+4506,R,,,,,,,"Reticular Nucleus of Thalamus, Left",,,1,
+4507,ZI,,,,,,,"Zona Incerta, Left",,,1,
+9001,MES,,,Mesencephalon,,,,,,,0,
+9002,MTg,,,,Midbrain Tegmentum,,,,,,0,
+9053,RN,,,,,Red Nucleus,,,,,0,
+9054,RN,,,,,,"Red Nucleus, Left",,,,1,
+9072,SN,,,,,Substantia Nigra,,,,,0,Substantia_nigra
+9073,SN,,,,,,"Substantia Nigra, Left",,,,0,Substantia_nigra
+9074,SNC,,,,,,,"Substantia Nigra, pars compacta, Left",,,1,Substantia_nigra
+9075,SNR,,,,,,,"Substantia Nigra, pars reticulata, Left",,,1,Substantia_nigra
+9066,VTA,,,,,ventral tegmental area,,,,,0,
+9067,VTA,,,,,,"ventral tegmental area, Left",,,,1,
+4833,Met,,,Metencephalon,,,,,,,0,
+4696,Cb,,,,Cerebellum,,,,,,0,Cerebellar_Hemisphere
+4697,CbCx,,,,,Cerebellar Cortex,,,,,0,Cerebellar_Hemisphere
+12930,CbH,,,,,,Cerebellar Hemispheres,,,,0,Cerebellar_Hemisphere
+12931,Cb-AL,,,,,,,Anterior Lobe,,,0,Cerebellar_Hemisphere
+12935,Cb-V,,,,,,,,V,,0,Cerebellar_Hemisphere
+4720,PV-V,,,,,,,,,"V, Left Paravermis",1,Cerebellar_Hemisphere
+12936,Cb-PL,,,,,,,Posterior Lobe,,,0,Cerebellar_Hemisphere
+12937,Cb-VI,,,,,,,,VI,,0,Cerebellar_Hemisphere
+4722,PV-VI,,,,,,,,,"VI, Left Paravermis",1,Cerebellar_Hemisphere
+4738,He-VI,,,,,,,,,"VI, Left Lateral Hemisphere",1,Cerebellar_Hemisphere
+12938,Cb-Crus I,,,,,,,,Crus I,,0,Cerebellar_Hemisphere
+4723,PV-Crus I,,,,,,,,,"Crus I, Left Paravermis",1,Cerebellar_Hemisphere
+4739,He-Crus I,,,,,,,,,"Crus I, Left Lateral Hemisphere",1,Cerebellar_Hemisphere
+12939,Cb-Crus II,,,,,,,,Crus II,,0,Cerebellar_Hemisphere
+4740,He-Crus II,,,,,,,,,"Crus II, Left Lateral Hemisphere",1,Cerebellar_Hemisphere
+12940,Cb-VIIB,,,,,,,,VIIB,,0,Cerebellar_Hemisphere
+4725,PV-VIIB,,,,,,,,,"VIIB, Left Paravermis",1,Cerebellar_Hemisphere
+4741,He-VIIB,,,,,,,,,"VIIB, Left Lateral Hemisphere",1,Cerebellar_Hemisphere
+4780,CbN,,,,,Cerebellar Nuclei,,,,,0,Cerebellar_Hemisphere
+12946,Dt,,,,,,Dentate Nucleus,,,,0,Cerebellar_Hemisphere
+4782,Dt,,,,,,,"Dentate Nucleus, Left",,,1,Cerebellar_Hemisphere
+9131,Pons,,,,Pons,,,,,,0,
+9132,Bpons,,,,,Basal Part of Pons,,,,,0,
+9133,Pn,,,,,,pontine nuclei,,,,0,
+9492,Pn,,,,,,,"pontine nuclei, Left",,,1,
+9135,PTg,,,,,Pontine Tegmentum,,,,,0,
+9160,PPRF,,,,,,Paramedian Pontine Reticular Formation,,,,0,
+9161,PRF,,,,,,,"Pontine Reticular Formation, Left",,,1,
+9512,MY,,,Myelencephalon,,,,,,,0,
+9519,Arc,,,,arcuate nucleus of medulla,,,,,,0,
+9520,Arc,,,,,"arcuate nucleus of medulla, Left",,,,,1,
+9542,Cu,,,,cuneate nucleus,,,,,,0,
+9543,Cu,,,,,"cuneate nucleus, Left",,,,,1,
+9560,IO,,,,inferior olivary complex,,,,,,0,
+9561,IO,,,,,"inferior olivary complex, Left",,,,,1,
+9587,MeRF,,,,medullary reticular formation,,,,,,0,
+9597,GiRt,,,,,gigantocellular group,,,,,0,
+9598,GiRt,,,,,,"gigantocellular group, Left",,,,1,
+9613,LMRt,,,,,lateral medullary reticular group,,,,,0,
+9614,LMRt,,,,,,"lateral medullary reticular group, Left",,,,1,
+9676,Sp5,,,,spinal trigeminal nucleus,,,,,,0,
+9677,Sp5,,,,,"spinal trigeminal nucleus, Left",,,,,1,
+9697,8Ve,,,,vestibular nuclei,,,,,,0,
+9698,8Ve,,,,,"vestibular nuclei, Left",,,,,1,
